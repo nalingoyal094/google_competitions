@@ -1,1 +1,1 @@
-# google_competitions
+# google_kickstart
